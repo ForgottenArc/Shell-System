@@ -1,0 +1,8 @@
+resolve_path called for command : echo
+PATH = /usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+DEBUG: Checking path: /usr/local/bin/echo
+DEBUG: Checking path: /System/Cryptexes/App/usr/bin/echo
+DEBUG: Checking path: /usr/bin/echo
+DEBUG: Checking path: /bin/echo
+Excuting command : /bin/echo
+"Hello"
